@@ -1,0 +1,6 @@
+url: https://github.com/leirui2/dsh-jet-hub
+name: leirui2/dsh-jet-hub
+category: model
+description:
+  en: 'Jet Hub for DSH: one settings page plus an optional sidebar entry for 15 LLM provider routes (CodeArts, CodeBuddy, WorkBuddy, LobsterAI, Qoder global and China, TRAE, Cline, Loomy, Raccoon Work, MiniMax Code, TeleAgent, Z.Code, Step Code, Antigravity) with per-provider account pools, drag-to-order account priority, silent credential refresh, per-model visibility switches, credit balance, daily check-in and encrypted backup and restore.'
+  zh: 'Jet Hub：在 DSH 设置页（可选侧边栏入口）统一管理 15 条 LLM provider 路由（CodeArts、CodeBuddy、WorkBuddy、LobsterAI、Qoder 国际版/中国版、TRAE、Cline、Loomy、Raccoon Work、MiniMax Code、TeleAgent、Z.Code、Step Code、Antigravity），支持按 provider 的账号池、拖拽排序决定选号优先级、凭据静默续期、逐模型显示开关、积分余额、每日签到与加密备份/恢复。'
